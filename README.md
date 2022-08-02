@@ -1,11 +1,11 @@
 <p>
-- 👋 Hi, I’m LUCIFER<br>
-- 👀 I'm looking for a Job into IT
+👋 Hi, I’m LUCIFER<br>
+👀 I'm looking for a Job into IT
 
 
 - 🌱 I’m currently learning Python, Js, Html/CSS
 
-- 💞️ I lito to contribute into small projects like discord bots
+- 💞️ I like to contribute into small projects like discord bots
 
 - 📫 You can reach me on <a href="https://twitter.com/LUCYFERRRS">Twitter</a>
 </p>
