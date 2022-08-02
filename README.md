@@ -1,5 +1,5 @@
 <p>
-- 👋 Hi, I’m LUCIFER
+- 👋 Hi, I’m LUCIFER<br>
 - 👀 I'm looking for a Job into IT
 
 
