@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Lucifer-FZ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p>
+- 👋 Hi, I’m LUCIFER
+- 👀 I'm looking for a Job into IT
 
+
+- 🌱 I’m currently learning Python, Js, Html/CSS
+
+- 💞️ I lito to contribute into small projects like discord bots
+
+- 📫 How to reach me on Twitter <a href="https://twitter.com/LUCYFERRRS">Click me</a>
+</p>
 <!---
-Lucifer-FZ/Lucifer-FZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+https://twitter.com/LUCYFERRRS
 --->
