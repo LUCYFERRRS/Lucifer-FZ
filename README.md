@@ -7,7 +7,7 @@
 
 - 💞️ I lito to contribute into small projects like discord bots
 
-- 📫 How to reach me on Twitter <a href="https://twitter.com/LUCYFERRRS">Click me</a>
+- 📫 You can reach me on <a href="https://twitter.com/LUCYFERRRS">Twitter</a>
 </p>
 <!---
 https://twitter.com/LUCYFERRRS
